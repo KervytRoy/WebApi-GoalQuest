@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ubcfm2x2+7vEiF4OdadHLmiquoGr/wBj0QOWxwxCubzGKixl3fX+/35+qGMWA1Ars/wttvBtz9ri5WJnomNh8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kervy\\source\\repos\\WebApi-GoalQuest\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kervy\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\kervy\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\kervy\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\kervy\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\kervy\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\kervy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
